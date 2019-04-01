@@ -1,0 +1,5 @@
+clone it go to the folder 
+open cmd on same folder path
+type npm install
+type ng serve 
+on browser :- localhost:4200
